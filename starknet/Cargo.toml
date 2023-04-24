@@ -20,7 +20,7 @@ bloomfilter = "1.0.9"
 byte-unit = "4.0.14"
 byteorder = "1.4.3"
 chrono = "0.4.22"
-clap = { version = "4.0.32", features = ["env", "unicode", "cargo", "derive"] }
+clap = { version = "4.2.2", features = ["env", "unicode", "cargo", "derive"] }
 ctrlc = { version = "3.2.3", features = ["termination"] }
 futures = "0.3.24"
 hex = "0.4.3"
